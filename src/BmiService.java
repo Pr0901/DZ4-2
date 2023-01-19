@@ -3,9 +3,9 @@ public class BmiService {
 
     public int option(int height) {
 
-        int height2 = height * height;
+        int heightTwo = height * height;
 
-        return height2;
+        return heightTwo;
     }
 
     public int calculate(int a, int b) {
